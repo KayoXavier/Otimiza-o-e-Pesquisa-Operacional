@@ -1,9 +1,3 @@
-/*********************************************
- * OPL 22.1.1.0 Model
- * Author: Kayo XaSensoresier
- * Creation Date: 24 de set de 2024 at 21:22:11
- *********************************************/
-
 //TP Final - Cainã Penna Mendes, Kayo Xavier Nascimento Cavalacante Leite e Rafael Xavier Ribeiro
 
 //"Uma heurística baseada em GRASP-VND para o Problema de Roteamento de Mula de Dados em Redes Mistas"
