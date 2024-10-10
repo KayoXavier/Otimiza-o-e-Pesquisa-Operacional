@@ -1,8 +1,3 @@
-/*********************************************
- * OPL 22.1.1.0 Data
- * Author: Kayo Xavier
- * Creation Date: 5 de out de 2024 at 18:27:43
- *********************************************/
 // Número de sensores
 n = 40;
 //Nó base
